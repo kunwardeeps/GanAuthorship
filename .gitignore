@@ -1,0 +1,6 @@
+data/
+data1/
+*.h5
+*.log
+dcgan_data/
+.ipynb_checkpoints/
